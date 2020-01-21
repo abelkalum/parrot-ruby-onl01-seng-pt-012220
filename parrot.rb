@@ -8,7 +8,7 @@ def parrot
 end
 
 def parrot(#{name}!)
-  return "Pretty bird!"
+  return #{name}!
 end
 
 def parrot(phrase)
