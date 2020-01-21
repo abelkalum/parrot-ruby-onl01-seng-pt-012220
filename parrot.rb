@@ -3,7 +3,7 @@ def parrot
 end
 
 def parrot
-  parrot = "Guy Fieri"
+  parrot = "Squawk!"
   return "Martha Stewart"
   "Guy Fieri"
 end
