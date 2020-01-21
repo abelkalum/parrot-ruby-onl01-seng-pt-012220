@@ -1,4 +1,4 @@
-
+require_relative '../parrot_spec.rb'
 
 def parrot
   puts "Squawk!"
