@@ -10,7 +10,7 @@ def parrot
 end
 
 def parrot(name)
-  return 
+  return "#{name}!"
 end
 
 def parrot(phrase)
