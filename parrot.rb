@@ -1,19 +1,6 @@
 require '../parrot_spec.rb'
 
-def parrot
-  puts "Squawk!"
-end
-
-def parrot
-  parrot = "Squawk!"
-  return "Squawk!"
-end
-
-def parrot(name)
-  return "#{name}!"
-end
-
-def parrot(phrase)
-  phrase = "Pretty bird!!"
-  return "Pretty bird!"
-end
+def parrot (phrase="squawk!")
+  puts phrase 
+end 
+return phrase
