@@ -4,6 +4,6 @@ end
 
 def parrot
   parrot = "Squawk!"
-  return "Martha Stewart"
-  "Guy Fieri"
+  return "Squawk!"
 end
+
