@@ -9,8 +9,8 @@ def parrot
   return "Squawk!"
 end
 
-def parrot(#{name}!)
-  return #{name}!
+def parrot(name)
+  return 
 end
 
 def parrot(phrase)
